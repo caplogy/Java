@@ -1,5 +1,5 @@
 # Jenkins_helloworld
-git clone https://github.com/caplogy/Jenkins_helloworld
+git clone https://github.com/caplogy/Java.git
 
 cd Jenkins_helloworld
 javac Main.java
